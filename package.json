@@ -7,15 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/clflovepanda/PersonalBlog.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/clflovepanda/PersonalBlog/issues"
-  },
-  "homepage": "https://github.com/clflovepanda/PersonalBlog#readme",
   "dependencies": {
     "express": "^4.16.4",
     "mysql": "^2.16.0",
